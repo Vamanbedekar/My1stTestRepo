@@ -1,4 +1,4 @@
-﻿namespace FSharp.ProjectTemplate
+namespace My1stTestRepo
 
 /// Documentation for my library
 ///

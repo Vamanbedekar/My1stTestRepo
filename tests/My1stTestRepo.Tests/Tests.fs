@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module My1stTestRepo.Tests
 
-open FSharp.ProjectTemplate
+open My1stTestRepo
 open NUnit.Framework
 
 [<Test>]
